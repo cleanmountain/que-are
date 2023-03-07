@@ -8,7 +8,7 @@ FILEPATH: str = "samplecsv-qr.png"
 
 @dataclass
 class QrCode:
-    """Class for QR code reading and decoding from image file"""
+    """Class for text QR code reading and decoding from image file"""
     image_path: str
 
     
