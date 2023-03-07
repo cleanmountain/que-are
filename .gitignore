@@ -1,0 +1,10 @@
+# ignore ALL .log files
+*.md
+
+# images
+*.jpg
+*.JPG
+*.png
+
+# ignore ALL files in ANY directory named temp
+venv/
