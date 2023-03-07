@@ -1,10 +1,10 @@
 import cv2
-import csv
 from pyzbar.pyzbar import decode
 from dataclasses import dataclass
 
 
-FILEPATH: str = "samplecsv-qr.png"
+FILEPATH: str = ""
+
 
 @dataclass
 class QrCode:
