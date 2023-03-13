@@ -1,3 +1,5 @@
 # Que Are
 First babysteps towards a tool to decode CSV data from a QR code. 
-Will most likely turn into a Flask app with a table view of some kind for parsing the CSV.
+A Flask app; will have a table view of some kind to prettify parsed CSV.
+
+Currently takes a single photo from the filesystem and displays the parsed csv as a nested array.
